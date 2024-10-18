@@ -105,6 +105,4 @@ Pickups
 
 Main Menu Creation: https://www.youtube.com/watch?v=zWI-36fIoDQ 
 * helped us create the main menu in general however we will need another resource to keep it from going into first person when you click to the side of the buttons as that makes it less intuitive (gulf of execution?)
-
-https://www.unrealengine.com/marketplace/en-US/product/open-world-demo-collection
-* nature asset pack
+* soul cave asset pack from Epic Games
