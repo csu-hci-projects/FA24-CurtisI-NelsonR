@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/icurtisProject/CS310H_HW1/HW1_Project/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/icurtisProject/CS310H_HW1/HW1_Project/Content/MainMenu.umap",
+				"D:/icurtisProject/CS310H_HW1/HW1_Project/Content/MyBlueprints/BP_MainMenu.uasset",
+				"D:/icurtisProject/CS310H_HW1/HW1_Project/Content/Isaac_Level_One.umap",
+				"D:/icurtisProject/CS310H_HW1/HW1_Project/Content/Riley_Level_Two.umap",
+				"/Users/isaaccurtis/Documents/CS310H_Project/CS310H_HW1/HW1_Project/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+			]
+		}
+	]
+}
