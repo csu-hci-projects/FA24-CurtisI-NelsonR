@@ -107,3 +107,4 @@ Main Menu Creation: https://www.youtube.com/watch?v=zWI-36fIoDQ
 * helped us create the main menu in general however we will need another resource to keep it from going into first person when you click to the side of the buttons as that makes it less intuitive (gulf of execution?)
 * soul cave asset pack from Epic Games
 * Large File Storage for Git: https://medium.com/projectwt/setting-up-git-large-file-storage-for-unreal-engine-projects-1854d6337177
+* collision event - https://www.youtube.com/watch?v=H2I7I8blgn8&ab_channel=GorkaGames
