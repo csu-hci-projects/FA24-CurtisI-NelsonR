@@ -28,8 +28,10 @@ Hazards
 
 Game Showcase
 
+Level End Screens
+
 ### Isaac Curtis
-Create the Project file
+Created the Project file
 
 First Level
 
