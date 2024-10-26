@@ -3857,3 +3857,804 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.26-17.57.32:619][128]AssetCheck: New page: Asset Save: Isaac_Level_One
 [2024.10.26-17.57.32:619][128]LogContentValidation: Display: Validating /Script/Engine.World /Game/Isaac_Level_One.Isaac_Level_One
 [2024.10.26-17.59.26:537][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.10.26-18.02.35:296][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3613.783691
+[2024.10.26-18.02.36:296][992]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.10.26-18.02.36:296][992]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3614.450195, Update Interval: 346.583466
+[2024.10.26-18.04.07:702][266]LogDerivedDataCache: C:/Users/Isaac Curtis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.206 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3152 files in 4548 folders with total size 361 MiB.
+[2024.10.26-18.05.39:298][541]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenInfov2], Url=[<Redacted>], HttpStatus=[401], ErrorCode=[errors.com.epicgames.common.oauth.invalid_token], NumericErrorCode=[1014], ErrorMessage=[The OAuthToken you are using is not valid], CorrId=[EOS-35BMi-ApA0SOZj8uTtrwuA-MegG5l71qEWEZOZrB3iPhg]
+[2024.10.26-18.05.39:631][542]LogEOSSDK: Error: LogEOSAuth: Authentication session lost due to failing verification. Error: EOS_Auth_InvalidToken UserId: 590...27b
+[2024.10.26-18.05.39:633][542]LogEOSSDK: Warning: LogEOSPresence: Can't set presence to offline, No connection to EpicConnect. LocalUserId=[590...27b]
+[2024.10.26-18.09.10:632][175]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4009.102295
+[2024.10.26-18.09.11:632][178]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.10.26-18.09.11:632][178]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4009.768799, Update Interval: 345.614807
+[2024.10.26-18.13.14:904][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.10.26-18.13.14:977][919]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.26-18.13.14:978][919]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MainMenu.MainMenu
+[2024.10.26-18.13.14:979][919]Cmd: MAP LOAD FILE="../../../../Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/Content/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.26-18.13.14:979][919]LightingResults: New page: Lighting Build
+[2024.10.26-18.13.14:979][919]LoadErrors: New page: Loading map: MainMenu.umap
+[2024.10.26-18.13.15:010][919]LogWorld: UWorld::CleanupWorld for Isaac_Level_One, bSessionEnded=true, bCleanupResources=true
+[2024.10.26-18.13.15:010][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-18.13.15:010][919]MapCheck: New page: Map Check
+[2024.10.26-18.13.15:010][919]LightingResults: New page: Lighting Build
+[2024.10.26-18.13.15:025][919]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.26-18.13.15:030][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.10.26-18.13.15:032][919]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.10.26-18.13.15:032][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-18.13.15:051][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.10.26-18.13.15:067][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.10.26-18.13.15:075][919]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2024.10.26-18.13.15:075][919]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.26-18.13.15:075][919]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.26-18.13.15:076][919]LogAIModule: Creating AISystem for world MainMenu
+[2024.10.26-18.13.15:189][919]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.26-18.13.15:207][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.10.26-18.13.15:213][919]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.26-18.13.15:213][919]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.165ms to complete.
+[2024.10.26-18.13.16:787][ 28]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.26-18.13.16:798][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.26-18.13.16:798][ 28]PIE: New page: PIE session: MainMenu (Oct 26, 2024, 6:13:16 AM)
+[2024.10.26-18.13.16:799][ 28]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2024.10.26-18.13.16:802][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003118s)
+[2024.10.26-18.13.16:802][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.003180s)
+[2024.10.26-18.13.16:819][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.10.26-18.13.16:821][ 28]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.26-18.13.16:822][ 28]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.26-18.13.16:822][ 28]LogAIModule: Creating AISystem for world MainMenu
+[2024.10.26-18.13.16:822][ 28]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2024.10.26-18.13.16:823][ 28]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2024.10.26-18.13.16:823][ 28]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.26-18.13.16:823][ 28]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.26-18.13.16:823][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.26-18.13.16:823][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.26-18.13.16:823][ 28]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.26-18.13.16:823][ 28]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.26-18.13.16:823][ 28]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.26-18.13.16:823][ 28]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.26-18.13.16:823][ 28]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.26-18.13.16:823][ 28]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.26-18.13.16:823][ 28]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.26-18.13.16:826][ 28]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.26-18.13.16:863][ 28]LogAudioMixer: Display: Using Audio Hardware Device Acer KG271 C (NVIDIA High Definition Audio)
+[2024.10.26-18.13.16:863][ 28]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.26-18.13.16:863][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.26-18.13.16:863][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.26-18.13.16:864][ 28]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2024.10.26-18.13.16:864][ 28]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2024.10.26-18.13.16:866][ 28]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2024.10.26-18.13.16:866][ 28]LogInit: FAudioDevice initialized with ID 33.
+[2024.10.26-18.13.16:866][ 28]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2024.10.26-18.13.16:866][ 28]LogAudio: Display: Audio Device (ID: 33) registered with world 'MainMenu'.
+[2024.10.26-18.13.16:866][ 28]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2024.10.26-18.13.16:869][ 28]LogLoad: Game class is 'menueGameMode_C'
+[2024.10.26-18.13.16:870][ 28]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.10.26-12.13.16
+[2024.10.26-18.13.16:870][ 28]LogWorld: Bringing up level for play took: 0.000731
+[2024.10.26-18.13.16:872][ 28]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.10.26-18.13.16:874][ 28]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.10.26-18.13.16:874][ 28]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.10.26-18.13.16:874][ 28]PIE: Server logged in
+[2024.10.26-18.13.16:875][ 28]PIE: Play in editor total start time 0.077 seconds.
+[2024.10.26-18.14.04:872][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.10.26-18.14.04:886][850]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.26-18.14.04:902][850]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Isaac_Level_One.Isaac_Level_One
+[2024.10.26-18.14.06:937][850]LogSlate: Window 'Message' being destroyed
+[2024.10.26-18.14.06:942][850]Message dialog closed, result: Yes, title: Message, text: This action will terminate your Play In Editor session.  Continue?
+[2024.10.26-18.14.06:943][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.26-18.14.06:943][850]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu
+[2024.10.26-18.14.06:983][850]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.10.26-18.14.06:983][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-18.14.06:985][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.26-18.14.06:990][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-18.14.07:007][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.26-18.14.07:007][850]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2024.10.26-18.14.07:007][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.10.26-18.14.07:009][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.10.26-18.14.07:016][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.10.26-18.14.07:027][850]Cmd: MAP LOAD FILE="../../../../Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/Content/Isaac_Level_One.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.10.26-18.14.07:027][850]LightingResults: New page: Lighting Build
+[2024.10.26-18.14.07:027][850]LoadErrors: New page: Loading map: Isaac_Level_One.umap
+[2024.10.26-18.14.07:059][850]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.10.26-18.14.07:059][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-18.14.07:059][850]MapCheck: New page: Map Check
+[2024.10.26-18.14.07:059][850]LightingResults: New page: Lighting Build
+[2024.10.26-18.14.07:075][850]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.26-18.14.07:078][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.10.26-18.14.07:080][850]LogWorld: UWorld::CleanupWorld for Isaac_Level_One, bSessionEnded=true, bCleanupResources=true
+[2024.10.26-18.14.07:080][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.26-18.14.07:096][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.10.26-18.14.07:112][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.10.26-18.14.07:123][850]LogAudio: Display: Audio Device (ID: 1) registered with world 'Isaac_Level_One'.
+[2024.10.26-18.14.07:124][850]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.26-18.14.07:124][850]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.26-18.14.07:124][850]LogAIModule: Creating AISystem for world Isaac_Level_One
+[2024.10.26-18.14.07:247][850]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.26-18.14.07:268][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.10.26-18.14.07:273][850]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.26-18.14.07:273][850]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.163ms to complete.
+[2024.10.26-18.14.07:341][851]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.10.26-18.15.01:664][148]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.10.26-18.15.01:743][148]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=1.00
+[2024.10.26-18.15.01:743][148]LogSynthBenchmark: Display: ===============
+[2024.10.26-18.15.01:743][148]LogSynthBenchmark: Display: Main Processor:
+[2024.10.26-18.15.01:770][148]LogSynthBenchmark: Display:          ... 0.013055 s/Run 'RayIntersect'
+[2024.10.26-18.15.01:770][148]LogSynthBenchmark: Display:          ... 0.013594 s/Run 'Fractal'
+[2024.10.26-18.15.01:770][148]LogSynthBenchmark: Display: 
+[2024.10.26-18.15.01:770][148]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2024.10.26-18.15.01:770][148]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2024.10.26-18.15.01:770][148]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2024.10.26-18.15.01:770][148]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2024.10.26-18.15.01:770][148]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 16
+[2024.10.26-18.15.01:770][148]LogSynthBenchmark: Display:   NumberOfCores (physical): 6
+[2024.10.26-18.15.01:770][148]LogSynthBenchmark: Display:   NumberOfCores (logical): 12
+[2024.10.26-18.15.01:770][148]LogSynthBenchmark: Display:   CPU Perf Index 0: 196.2 (weight 1.00)
+[2024.10.26-18.15.01:770][148]LogSynthBenchmark: Display:   CPU Perf Index 1: 210.4 (weight 1.50)
+[2024.10.26-18.15.01:770][148]LogSynthBenchmark: Display:  
+[2024.10.26-18.15.01:770][148]LogSynthBenchmark: Display: Graphics:
+[2024.10.26-18.15.01:770][148]LogSynthBenchmark: Display:   Adapter Name: 'NVIDIA GeForce GTX 1070 Ti'
+[2024.10.26-18.15.01:770][148]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2024.10.26-18.15.01:770][148]LogSynthBenchmark: Display:   Vendor Id: 0x10DE
+[2024.10.26-18.15.01:770][148]LogSynthBenchmark: Display:   Device Id: 0x1B82
+[2024.10.26-18.15.01:770][148]LogSynthBenchmark: Display:   Device Revision: 0xA1
+[2024.10.26-18.15.01:770][148]LogSynthBenchmark: Display:   GPU Memory: 8059/0/8168 MB
+[2024.10.26-18.15.02:140][148]LogSynthBenchmark: Display:   GPU first test: 0.00s
+[2024.10.26-18.15.02:140][148]LogSynthBenchmark: Display:          ... 6.267 s/GigaPix, Confidence=70% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2024.10.26-18.15.02:140][148]LogSynthBenchmark: Display:          ... 4.917 s/GigaPix, Confidence=89% 'TexHeavy' (likely to be very inaccurate)
+[2024.10.26-18.15.02:140][148]LogSynthBenchmark: Display:          ... 4.051 s/GigaPix, Confidence=89% 'DepTexHeavy' (likely to be very inaccurate)
+[2024.10.26-18.15.02:140][148]LogSynthBenchmark: Display:          ... 9.426 s/GigaPix, Confidence=70% 'FillOnly' (likely to be very inaccurate)
+[2024.10.26-18.15.02:140][148]LogSynthBenchmark: Display:          ... 1.120 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2024.10.26-18.15.02:140][148]LogSynthBenchmark: Display:          ... 28.585 s/GigaVert, Confidence=70% 'VertThroughPut1' (likely to be very inaccurate)
+[2024.10.26-18.15.02:140][148]LogSynthBenchmark: Display:          ... 31.527 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2024.10.26-18.15.02:672][148]LogSynthBenchmark: Display:   GPU second test: 0.01s
+[2024.10.26-18.15.02:672][148]LogSynthBenchmark: Display:          ... 15.315 s/GigaPix, Confidence=81% 'ALUHeavyNoise' (likely to be inaccurate)
+[2024.10.26-18.15.02:672][148]LogSynthBenchmark: Display:          ... 13.048 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be inaccurate)
+[2024.10.26-18.15.02:672][148]LogSynthBenchmark: Display:          ... 10.502 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be inaccurate)
+[2024.10.26-18.15.02:672][148]LogSynthBenchmark: Display:          ... 43.340 s/GigaPix, Confidence=89% 'FillOnly' (likely to be inaccurate)
+[2024.10.26-18.15.02:672][148]LogSynthBenchmark: Display:          ... 1.595 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be inaccurate)
+[2024.10.26-18.15.02:672][148]LogSynthBenchmark: Display:          ... 6.070 s/GigaVert, Confidence=89% 'VertThroughPut1' (likely to be inaccurate)
+[2024.10.26-18.15.02:672][148]LogSynthBenchmark: Display:          ... 7.204 s/GigaVert, Confidence=89% 'VertThroughPut2' (likely to be inaccurate)
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:   GPU third test: 0.14s
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:          ... 20.935 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:          ... 15.882 s/GigaPix, Confidence=89% 'TexHeavy'
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:          ... 13.462 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:          ... 75.599 s/GigaPix, Confidence=100% 'FillOnly'
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:          ... 1.658 s/GigaPix, Confidence=100% 'Bandwidth'
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:          ... 4.338 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:          ... 6.518 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:   GPU Final Results:
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:          ... 20.935 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:          ... 15.882 s/GigaPix, Confidence=89% 'TexHeavy'
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:          ... 13.462 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:          ... 75.599 s/GigaPix, Confidence=100% 'FillOnly'
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:          ... 1.658 s/GigaPix, Confidence=100% 'Bandwidth'
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:          ... 4.338 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:          ... 6.518 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display: 
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:   GPU Perf Index 0: 455.0 (weight 1.00)
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:   GPU Perf Index 1: 213.3 (weight 0.10)
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:   GPU Perf Index 2: 349.9 (weight 0.10)
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:   GPU Perf Index 3: 296.9 (weight 3.00)
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:   GPU Perf Index 4: 154.7 (weight 1.00)
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:   GPU Perf Index 5: 282.2 (weight 0.00)
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:   GPU Perf Index 6: 368.9 (weight 0.00)
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:   GPUIndex: 299.4
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:   CPUIndex: 204.7
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display: 
+[2024.10.26-18.15.03:369][148]LogSynthBenchmark: Display:          ... Total Time: 1.626081 sec
+[2024.10.26-18.15.05:181][358]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.10.26-18.15.05:181][358]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=1.00
+[2024.10.26-18.15.05:182][358]LogSynthBenchmark: Display: ===============
+[2024.10.26-18.15.05:182][358]LogSynthBenchmark: Display: Main Processor:
+[2024.10.26-18.15.05:208][358]LogSynthBenchmark: Display:          ... 0.013179 s/Run 'RayIntersect'
+[2024.10.26-18.15.05:208][358]LogSynthBenchmark: Display:          ... 0.013603 s/Run 'Fractal'
+[2024.10.26-18.15.05:208][358]LogSynthBenchmark: Display: 
+[2024.10.26-18.15.05:208][358]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2024.10.26-18.15.05:208][358]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2024.10.26-18.15.05:208][358]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2024.10.26-18.15.05:208][358]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2024.10.26-18.15.05:208][358]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 16
+[2024.10.26-18.15.05:208][358]LogSynthBenchmark: Display:   NumberOfCores (physical): 6
+[2024.10.26-18.15.05:208][358]LogSynthBenchmark: Display:   NumberOfCores (logical): 12
+[2024.10.26-18.15.05:208][358]LogSynthBenchmark: Display:   CPU Perf Index 0: 194.3 (weight 1.00)
+[2024.10.26-18.15.05:208][358]LogSynthBenchmark: Display:   CPU Perf Index 1: 210.3 (weight 1.50)
+[2024.10.26-18.15.05:208][358]LogSynthBenchmark: Display:  
+[2024.10.26-18.15.05:208][358]LogSynthBenchmark: Display: Graphics:
+[2024.10.26-18.15.05:208][358]LogSynthBenchmark: Display:   Adapter Name: 'NVIDIA GeForce GTX 1070 Ti'
+[2024.10.26-18.15.05:208][358]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2024.10.26-18.15.05:208][358]LogSynthBenchmark: Display:   Vendor Id: 0x10DE
+[2024.10.26-18.15.05:208][358]LogSynthBenchmark: Display:   Device Id: 0x1B82
+[2024.10.26-18.15.05:208][358]LogSynthBenchmark: Display:   Device Revision: 0xA1
+[2024.10.26-18.15.05:208][358]LogSynthBenchmark: Display:   GPU Memory: 8059/0/8168 MB
+[2024.10.26-18.15.05:781][358]LogSynthBenchmark: Display:   GPU first test: 0.00s
+[2024.10.26-18.15.05:781][358]LogSynthBenchmark: Display:          ... 6.896 s/GigaPix, Confidence=81% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2024.10.26-18.15.05:781][358]LogSynthBenchmark: Display:          ... 5.270 s/GigaPix, Confidence=89% 'TexHeavy' (likely to be very inaccurate)
+[2024.10.26-18.15.05:781][358]LogSynthBenchmark: Display:          ... 4.672 s/GigaPix, Confidence=81% 'DepTexHeavy' (likely to be very inaccurate)
+[2024.10.26-18.15.05:781][358]LogSynthBenchmark: Display:          ... 10.056 s/GigaPix, Confidence=70% 'FillOnly' (likely to be very inaccurate)
+[2024.10.26-18.15.05:781][358]LogSynthBenchmark: Display:          ... 1.219 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2024.10.26-18.15.05:781][358]LogSynthBenchmark: Display:          ... 31.379 s/GigaVert, Confidence=89% 'VertThroughPut1' (likely to be very inaccurate)
+[2024.10.26-18.15.05:781][358]LogSynthBenchmark: Display:          ... 31.527 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2024.10.26-18.15.06:374][358]LogSynthBenchmark: Display:   GPU second test: 0.01s
+[2024.10.26-18.15.06:374][358]LogSynthBenchmark: Display:          ... 15.670 s/GigaPix, Confidence=81% 'ALUHeavyNoise' (likely to be inaccurate)
+[2024.10.26-18.15.06:374][358]LogSynthBenchmark: Display:          ... 13.327 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be inaccurate)
+[2024.10.26-18.15.06:374][358]LogSynthBenchmark: Display:          ... 10.652 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be inaccurate)
+[2024.10.26-18.15.06:374][358]LogSynthBenchmark: Display:          ... 37.427 s/GigaPix, Confidence=89% 'FillOnly' (likely to be inaccurate)
+[2024.10.26-18.15.06:374][358]LogSynthBenchmark: Display:          ... 1.559 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be inaccurate)
+[2024.10.26-18.15.06:374][358]LogSynthBenchmark: Display:          ... 5.992 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be inaccurate)
+[2024.10.26-18.15.06:374][358]LogSynthBenchmark: Display:          ... 7.169 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be inaccurate)
+[2024.10.26-18.15.07:054][358]LogSynthBenchmark: Display:   GPU third test: 0.14s
+[2024.10.26-18.15.07:054][358]LogSynthBenchmark: Display:          ... 20.853 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2024.10.26-18.15.07:054][358]LogSynthBenchmark: Display:          ... 15.918 s/GigaPix, Confidence=100% 'TexHeavy'
+[2024.10.26-18.15.07:054][358]LogSynthBenchmark: Display:          ... 13.449 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:          ... 74.564 s/GigaPix, Confidence=100% 'FillOnly'
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:          ... 1.623 s/GigaPix, Confidence=100% 'Bandwidth'
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:          ... 4.369 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:          ... 6.575 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:   GPU Final Results:
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:          ... 20.853 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:          ... 15.918 s/GigaPix, Confidence=100% 'TexHeavy'
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:          ... 13.449 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:          ... 74.564 s/GigaPix, Confidence=100% 'FillOnly'
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:          ... 1.623 s/GigaPix, Confidence=100% 'Bandwidth'
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:          ... 4.369 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:          ... 6.575 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display: 
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:   GPU Perf Index 0: 453.2 (weight 1.00)
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:   GPU Perf Index 1: 213.8 (weight 0.10)
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:   GPU Perf Index 2: 349.6 (weight 0.10)
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:   GPU Perf Index 3: 292.8 (weight 3.00)
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:   GPU Perf Index 4: 151.4 (weight 1.00)
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:   GPU Perf Index 5: 284.3 (weight 0.00)
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:   GPU Perf Index 6: 372.1 (weight 0.00)
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:   GPUIndex: 296.1
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:   CPUIndex: 203.9
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display: 
+[2024.10.26-18.15.07:055][358]LogSynthBenchmark: Display:          ... Total Time: 1.872539 sec
+[2024.10.26-18.15.24:371][411]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2024.10.26-18.15.24:371][411]LogConfig: Set CVar [[r.SkeletalMeshLODBias:1]]
+[2024.10.26-18.15.24:371][411]LogConfig: Set CVar [[r.ViewDistanceScale:0.6]]
+[2024.10.26-18.15.24:371][411]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2024.10.26-18.15.24:371][411]LogConfig: Set CVar [[r.FXAA.Quality:1]]
+[2024.10.26-18.15.24:371][411]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2024.10.26-18.15.24:371][411]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2024.10.26-18.15.24:371][411]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:1]]
+[2024.10.26-18.15.24:371][411]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2024.10.26-18.15.24:371][411]LogConfig: Set CVar [[r.TSR.ShadingRejection.TileOverscan:2]]
+[2024.10.26-18.15.24:371][411]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.10.26-18.15.24:371][411]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2024.10.26-18.15.24:371][411]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2024.10.26-18.15.24:371][411]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2024.10.26-18.15.24:371][411]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2024.10.26-18.15.24:371][411]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2024.10.26-18.15.24:371][411]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2024.10.26-18.15.24:371][411]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2024.10.26-18.15.24:371][411]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2024.10.26-18.15.24:371][411]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2024.10.26-18.15.24:371][411]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.10.26-18.15.24:371][411]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2024.10.26-18.15.24:371][411]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2024.10.26-18.15.24:371][411]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:4]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2024.10.26-18.15.24:372][411]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.AOQuality:1]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2024.10.26-18.15.24:372][411]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2024.10.26-18.15.24:372][411]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.DepthOfFieldQuality:1]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.RenderTargetPoolMin:350]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:35.355]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.FastBlurThreshold:2]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.Filter.SizeScale:0.7]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.Tonemapper.Quality:2]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2024.10.26-18.15.24:372][411]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2024.10.26-18.15.24:373][411]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.Streaming.MipBias:1]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.MaxAnisotropy:2]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.Streaming.PoolSize:600]]
+[2024.10.26-18.15.24:373][411]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.DetailMode:1]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.SSS.Scale:0.75]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.SSGI.Quality:1]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.25]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[fx.Niagara.QualityLevel:1]]
+[2024.10.26-18.15.24:373][411]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[foliage.DensityScale:0.4]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[grass.DensityScale:0.4]]
+[2024.10.26-18.15.24:373][411]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2024.10.26-18.15.24:373][411]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2024.10.26-18.15.24:480][411]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.10.26-18.15.24:491][411]LogContentStreaming: Texture pool size now 600 MB
+[2024.10.26-18.15.24:579][413]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.10.26-18.15.47:077][ 75]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4410.342773
+[2024.10.26-18.15.47:169][ 86]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.10.26-18.15.47:169][ 86]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4410.425781, Update Interval: 326.673798
+[2024.10.26-18.16.21:521][208]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.10.26-18.16.21:521][208]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.10.26-18.16.57:934][416]LogSlate: External Image Picker: DecompressImage failed
+[2024.10.26-18.17.00:688][632]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.10.26-18.18.38:570][926]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.26-18.19.54:869][370]LogSlate: Window 'Project Settings' being destroyed
+[2024.10.26-18.19.54:874][370]LogSlate: Window 'Project Settings' being destroyed
+[2024.10.26-18.20.06:908][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.10.26-18.20.49:098][745]LogTurnkeySupport: Project does not require temp target
+[2024.10.26-18.20.49:116][745]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UnrealGame.target
+[2024.10.26-18.20.49:161][745]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/UE_5.3/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/HW1_Project.uproject" Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=57028  -project="C:/Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/HW1_Project.uproject" BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook  -project="C:/Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/HW1_Project.uproject"  -unrealexe="C:\UE_5.3\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -installed -stage -archive -package -pak -iostore -compressed -prereqs -archivedirectory="C:/Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR" -clientconfig=Development" -nocompile -nocompileuat ]
+[2024.10.26-18.20.49:302][749]UATHelper: Packaging (Windows): Running AutomationTool...
+[2024.10.26-18.20.49:412][751]UATHelper: Packaging (Windows): Using bundled DotNet SDK version: 6.0.302
+[2024.10.26-18.20.49:643][769]UATHelper: Packaging (Windows): Starting AutomationTool...
+[2024.10.26-18.20.49:665][772]UATHelper: Packaging (Windows): Parsing command line: -ScriptsForProject="C:/Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/HW1_Project.uproject" Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=57028 -project="C:/Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/HW1_Project.uproject" BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook -project="C:/Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/HW1_Project.uproject" -unrealexe=C:\UE_5.3\Engine\Binaries\Win64\UnrealEditor-Cmd.exe -platform=Win64 -installed -stage -archive -package -pak -iostore -compressed -prereqs -archivedirectory="C:/Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR" -clientconfig=Development -nocompile -nocompileuat
+[2024.10.26-18.20.49:808][789]UATHelper: Packaging (Windows): Initializing script modules...
+[2024.10.26-18.20.50:414][852]UATHelper: Packaging (Windows): Total script module initialization time: 0.61 s.
+[2024.10.26-18.20.50:876][907]UATHelper: Packaging (Windows): Executing commands...
+[2024.10.26-18.20.50:931][914]UATHelper: Packaging (Windows): Installed Sdk validity:
+[2024.10.26-18.20.50:942][915]UATHelper: Packaging (Windows): Win64: (Status=Valid, MinAllowed_Sdk=10.0.00000.0, MaxAllowed_Sdk=10.9.99999.0, Current_Sdk=10.0.16299.0, Allowed_AutoSdk=10.0.18362.0, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists")
+[2024.10.26-18.20.50:942][915]UATHelper: Packaging (Windows): Scanning for envvar changes...
+[2024.10.26-18.20.50:942][915]UATHelper: Packaging (Windows): ... done! 
+[2024.10.26-18.20.50:942][915]UATHelper: Packaging (Windows): Cleaning Temp Paths...
+[2024.10.26-18.20.50:942][915]UATHelper: Packaging (Windows): BUILD SUCCESSFUL
+[2024.10.26-18.20.50:953][916]UATHelper: Packaging (Windows): Setting up ProjectParams for C:\Users\Isaac Curtis\Documents\Unreal Projects\FA24-CurtisI-NelsonR\HW1_Project.uproject
+[2024.10.26-18.20.55:057][394]UATHelper: Packaging (Windows): ********** COOK COMMAND STARTED **********
+[2024.10.26-18.20.55:068][395]UATHelper: Packaging (Windows): Running UnrealEditor Cook for project C:\Users\Isaac Curtis\Documents\Unreal Projects\FA24-CurtisI-NelsonR\HW1_Project.uproject
+[2024.10.26-18.20.55:068][395]UATHelper: Packaging (Windows): Commandlet log file is C:\UE_5.3\Engine\Programs\AutomationTool\Saved\Cook-2024.10.26-12.20.55.txt
+[2024.10.26-18.20.55:101][399]UATHelper: Packaging (Windows): Running: C:\UE_5.3\Engine\Binaries\Win64\UnrealEditor-Cmd.exe "C:\Users\Isaac Curtis\Documents\Unreal Projects\FA24-CurtisI-NelsonR\HW1_Project.uproject" -run=Cook  -TargetPlatform=Windows  -unversioned -fileopenlog -abslog="C:\UE_5.3\Engine\Programs\AutomationTool\Saved\Cook-2024.10.26-12.20.55.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2024.10.26-18.20.55:872][478]UATHelper: Packaging (Windows): LogInit: Display: Running engine for game: HW1_Project
+[2024.10.26-18.20.55:872][478]UATHelper: Packaging (Windows): LogCore: Display: Requested channels: 'cpu,gpu,frame,log,bookmark,screenshot,region'
+[2024.10.26-18.20.55:872][478]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : platform="Windows"
+[2024.10.26-18.20.55:872][478]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : config="Development"
+[2024.10.26-18.20.55:872][478]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.3-CL-29314046"
+[2024.10.26-18.20.55:872][478]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : engineversion="5.3.2-29314046+++UE5+Release-5.3"
+[2024.10.26-18.20.55:872][478]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.5011] "
+[2024.10.26-18.20.55:872][478]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 2600X Six-Core Processor"
+[2024.10.26-18.20.55:872][478]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+[2024.10.26-18.20.55:873][478]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
+[2024.10.26-18.20.55:873][478]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : ltoenabled="0"
+[2024.10.26-18.20.55:883][479]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : asan="0"
+[2024.10.26-18.20.55:883][479]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\Isaac Curtis\Documents\Unreal Projects\FA24-CurtisI-NelsonR\HW1_Project.uproject" -run=Cook -TargetPlatform=Windows -unversioned -fileopenlog -abslog=C:\UE_5.3\Engine\Programs\AutomationTool\Saved\Cook-2024.10.26-12.20.55.txt -stdout -CrashForUAT -unattended -NoLogTimes -UTF8Output""
+[2024.10.26-18.20.55:883][479]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : loginid="a781b91348d6ebefa9a07393fe0220a4"
+[2024.10.26-18.20.56:400][512]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : llm="0"
+[2024.10.26-18.20.56:411][512]UATHelper: Packaging (Windows): LogConfig: Display: Loading Mac ini files took 0.08 seconds
+[2024.10.26-18.20.56:411][512]UATHelper: Packaging (Windows): LogConfig: Display: Loading VulkanPC ini files took 0.08 seconds
+[2024.10.26-18.20.56:411][512]UATHelper: Packaging (Windows): LogAssetRegistry: Display: Asset registry cache read as 17.5 MiB from ../../../../Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/Intermediate/CachedAssetRegistry_0.bin
+[2024.10.26-18.20.56:411][512]UATHelper: Packaging (Windows): LogConfig: Display: Loading IOS ini files took 0.09 seconds
+[2024.10.26-18.20.56:411][512]UATHelper: Packaging (Windows): LogConfig: Display: Loading Android ini files took 0.09 seconds
+[2024.10.26-18.20.56:411][512]UATHelper: Packaging (Windows): LogConfig: Display: Loading Unix ini files took 0.10 seconds
+[2024.10.26-18.20.56:411][512]UATHelper: Packaging (Windows): LogConfig: Display: Loading TVOS ini files took 0.10 seconds
+[2024.10.26-18.20.56:411][512]UATHelper: Packaging (Windows): LogConfig: Display: Loading LinuxArm64 ini files took 0.12 seconds
+[2024.10.26-18.20.56:411][512]UATHelper: Packaging (Windows): LogConfig: Display: Loading Linux ini files took 0.12 seconds
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogConfig: Display: Loading Windows ini files took 0.06 seconds
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Fab/Content/' mounted to '/Fab/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/TraceUtilities/Content/' mounted to '/TraceUtilities/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/GLTFExporter/Content/' mounted to '/GLTFExporter/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaPlate/Content/' mounted to '/MediaPlate/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioWidgets/Content/' mounted to '/AudioWidgets/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Metasound/Content/' mounted to '/Metasound/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/RigVM/Content/' mounted to '/RigVM/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/WaveTable/Content/' mounted to '/WaveTable/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+[2024.10.26-18.20.56:709][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+[2024.10.26-18.20.56:720][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+[2024.10.26-18.20.56:720][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Dataflow/Content/' mounted to '/Dataflow/'
+[2024.10.26-18.20.56:720][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+[2024.10.26-18.20.56:720][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+[2024.10.26-18.20.56:720][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+[2024.10.26-18.20.56:720][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+[2024.10.26-18.20.56:720][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ToolPresets/Content/' mounted to '/ToolPresets/'
+[2024.10.26-18.20.56:720][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Interchange/Runtime/Content/' mounted to '/Interchange/'
+[2024.10.26-18.20.56:720][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+[2024.10.26-18.20.56:720][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ACLPlugin/Content/' mounted to '/ACLPlugin/'
+[2024.10.26-18.20.56:720][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+[2024.10.26-18.20.56:720][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+[2024.10.26-18.20.56:720][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+[2024.10.26-18.20.56:720][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+[2024.10.26-18.20.56:720][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
+[2024.10.26-18.20.56:720][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+[2024.10.26-18.20.56:720][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+[2024.10.26-18.20.56:720][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+[2024.10.26-18.20.56:720][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/UVEditor/Content/' mounted to '/UVEditor/'
+[2024.10.26-18.20.56:720][535]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
+[2024.10.26-18.20.57:722][632]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
+[2024.10.26-18.20.57:953][633]UATHelper: Packaging (Windows): RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+[2024.10.26-18.20.57:953][633]UATHelper: Packaging (Windows): LogHAL: Display: Platform has ~ 16 GB [17128574976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.10.26-18.20.57:997][633]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2024.10.26-18.20.57:997][633]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatASTC
+[2024.10.26-18.20.57:997][633]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatDXT
+[2024.10.26-18.20.57:997][633]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatETC2
+[2024.10.26-18.20.57:997][633]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatIntelISPCTexComp
+[2024.10.26-18.20.57:997][633]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatUncompressed
+[2024.10.26-18.20.57:997][633]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.10
+[2024.10.26-18.20.57:997][633]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2024.10.26-18.20.57:997][633]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.6.dll
+[2024.10.26-18.20.57:997][633]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.7.dll
+[2024.10.26-18.20.57:997][633]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+[2024.10.26-18.20.57:997][633]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.9.dll
+[2024.10.26-18.20.57:997][633]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.10.dll
+[2024.10.26-18.20.58:019][633]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatOodle
+[2024.10.26-18.20.58:019][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.10.26-18.20.58:019][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.10.26-18.20.58:019][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.10.26-18.20.58:019][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.10.26-18.20.58:019][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.10.26-18.20.58:019][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.10.26-18.20.58:019][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.10.26-18.20.58:019][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.10.26-18.20.58:019][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.10.26-18.20.58:019][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.10.26-18.20.58:019][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.10.26-18.20.58:030][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.10.26-18.20.58:030][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.10.26-18.20.58:030][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2024.10.26-18.20.58:030][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.10.26-18.20.58:030][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.10.26-18.20.58:030][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2024.10.26-18.20.58:030][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2024.10.26-18.20.58:030][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2024.10.26-18.20.58:030][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.10.26-18.20.58:030][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacEditor'
+[2024.10.26-18.20.58:030][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.10.26-18.20.58:041][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.10.26-18.20.58:041][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.10.26-18.20.58:041][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.10.26-18.20.58:041][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.10.26-18.20.58:041][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2024.10.26-18.20.58:041][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.10.26-18.20.58:041][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.10.26-18.20.58:052][633]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.10.26-18.21.02:833][ 92]UATHelper: Packaging (Windows): LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.10.26-18.21.02:888][ 99]UATHelper: Packaging (Windows): LogDerivedDataCache: Display: Memory: Max Cache Size: -1 MB
+[2024.10.26-18.21.02:976][109]UATHelper: Packaging (Windows): LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (2383 MiB)
+[2024.10.26-18.21.02:976][109]UATHelper: Packaging (Windows): LogDerivedDataCache: Display: C:/Users/Isaac Curtis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Performance: Latency=0.08ms. RandomReadSpeed=12.77MBs, RandomWriteSpeed=59.50MBs. Assigned SpeedClass 'Local'
+[2024.10.26-18.21.11:536][ 14]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2024.10.26-18.21.11:536][ 14]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2024.10.26-18.21.11:547][ 14]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.10.26-18.21.11:558][ 15]UATHelper: Packaging (Windows): LogAssetRegistry: Display: AssetDataGatherer spent 0.000s loading caches ../../../../Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/Intermediate/CachedAssetRegistry_*.bin.
+[2024.10.26-18.21.11:866][ 46]UATHelper: Packaging (Windows): LogEditorDomain: Display: EditorDomain is Disabled
+[2024.10.26-18.21.11:866][ 46]UATHelper: Packaging (Windows): LogDeviceProfileManager: Display: Deviceprofile LinuxArm64Editor not found.
+[2024.10.26-18.21.12:141][ 78]UATHelper: Packaging (Windows): LogDeviceProfileManager: Display: Deviceprofile LinuxArm64 not found.
+[2024.10.26-18.21.12:141][ 78]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2024.10.26-18.21.12:141][ 78]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+[2024.10.26-18.21.12:339][ 97]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.10.26-18.21.12:339][ 98]UATHelper: Packaging (Windows): LogTextureEncodingSettings: Display: Texture Encode Speed: Final (cook).
+[2024.10.26-18.21.12:339][ 98]UATHelper: Packaging (Windows): LogTextureEncodingSettings: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2024.10.26-18.21.12:526][115]UATHelper: Packaging (Windows): LogTextureEncodingSettings: Display: Shared linear texture encoding: Disabled
+[2024.10.26-18.21.12:526][115]UATHelper: Packaging (Windows): LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.10.26-18.21.12:526][115]UATHelper: Packaging (Windows): LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2024.10.26-18.21.12:537][116]UATHelper: Packaging (Windows): LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.10.26-18.21.13:066][124]UATHelper: Packaging (Windows): LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2024.10.26-18.21.13:066][124]UATHelper: Packaging (Windows): LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2024.10.26-18.21.13:275][125]UATHelper: Packaging (Windows): LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2024.10.26-18.21.13:275][125]UATHelper: Packaging (Windows): LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2024.10.26-18.21.13:661][126]UATHelper: Packaging (Windows): LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 2 ms
+[2024.10.26-18.21.15:638][132]UATHelper: Packaging (Windows): LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.10.26-18.21.15:638][132]UATHelper: Packaging (Windows): LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.10.26-18.21.16:573][134]UATHelper: Packaging (Windows): LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.10.26-18.21.16:584][134]UATHelper: Packaging (Windows): LogOutputDevice: Warning:
+[2024.10.26-18.21.16:584][134]UATHelper: Packaging (Windows): Script Stack (0 frames) :
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error: appError called: Assertion failed: CurrentApplication.IsValid() [File:D:\build\++UE5\Sync\LocalInstall\Engine\Source\Runtime\Slate\Public\Framework\Application\SlateApplication.h] [Line: 255]
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error: begin: stack for UAT
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error: === Critical error: ===
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error:
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error: Assertion failed: CurrentApplication.IsValid() [File:D:\build\++UE5\Sync\LocalInstall\Engine\Source\Runtime\Slate\Public\Framework\Application\SlateApplication.h] [Line: 255]
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error:
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error:
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error:
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x000002bcd4c2ad96 UnrealEditor-Fab.dll!FFabBrowser::RegisterSlateStyle() [D:\build\++UE5\Sync\LocalBuilds\Fab\0.0.1\HostProject\Plugins\Fab\Source\Fab\Private\FabBrowser.cpp:98]
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x000002bcd4c3725a UnrealEditor-Fab.dll!FFabModule::StartupModule() [D:\build\++UE5\Sync\LocalBuilds\Fab\0.0.1\HostProject\Plugins\Fab\Source\Fab\Private\FabModule.cpp:35]
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ffea6095954 UnrealEditor-Core.dll!UnknownFunction []
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ffea51487ee UnrealEditor-Projects.dll!UnknownFunction []
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ffea51656c3 UnrealEditor-Projects.dll!UnknownFunction []
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ffea514801a UnrealEditor-Projects.dll!UnknownFunction []
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ff717702591 UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ff71770634f UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ff7176fcfb6 UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ff7176fd37a UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ff717700854 UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ff717716984 UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ff717718eb6 UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007fff38f77374 KERNEL32.DLL!UnknownFunction []
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error:
+[2024.10.26-18.21.18:662][141]UATHelper: Packaging (Windows): LogWindows: Error: end: stack for UAT
+[2024.10.26-18.21.18:939][141]PackagingResults: Error: appError called: Assertion failed: CurrentApplication.IsValid() [File:D:\build\++UE5\Sync\LocalInstall\Engine\Source\Runtime\Slate\Public\Framework\Application\SlateApplication.h] [Line: 255]
+[2024.10.26-18.21.18:939][141]PackagingResults: Error: begin: stack for UAT
+[2024.10.26-18.21.18:939][141]PackagingResults: Error: === Critical error: ===
+[2024.10.26-18.21.18:939][141]PackagingResults: Error: Assertion failed: CurrentApplication.IsValid() [File:D:\build\++UE5\Sync\LocalInstall\Engine\Source\Runtime\Slate\Public\Framework\Application\SlateApplication.h] [Line: 255]
+[2024.10.26-18.21.18:939][141]PackagingResults: Error: [Callstack] 0x000002bcd4c2ad96 UnrealEditor-Fab.dll!FFabBrowser::RegisterSlateStyle() [D:\build\++UE5\Sync\LocalBuilds\Fab\0.0.1\HostProject\Plugins\Fab\Source\Fab\Private\FabBrowser.cpp:98]
+[2024.10.26-18.21.18:939][141]PackagingResults: Error: [Callstack] 0x000002bcd4c3725a UnrealEditor-Fab.dll!FFabModule::StartupModule() [D:\build\++UE5\Sync\LocalBuilds\Fab\0.0.1\HostProject\Plugins\Fab\Source\Fab\Private\FabModule.cpp:35]
+[2024.10.26-18.21.18:939][141]PackagingResults: Error: [Callstack] 0x00007ffea6095954 UnrealEditor-Core.dll!UnknownFunction []
+[2024.10.26-18.21.18:939][141]PackagingResults: Error: [Callstack] 0x00007ffea51487ee UnrealEditor-Projects.dll!UnknownFunction []
+[2024.10.26-18.21.18:939][141]PackagingResults: Error: [Callstack] 0x00007ffea51656c3 UnrealEditor-Projects.dll!UnknownFunction []
+[2024.10.26-18.21.18:940][141]PackagingResults: Error: [Callstack] 0x00007ffea514801a UnrealEditor-Projects.dll!UnknownFunction []
+[2024.10.26-18.21.18:940][141]PackagingResults: Error: [Callstack] 0x00007ff717702591 UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.21.18:940][141]PackagingResults: Error: [Callstack] 0x00007ff71770634f UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.21.18:940][141]PackagingResults: Error: [Callstack] 0x00007ff7176fcfb6 UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.21.18:940][141]PackagingResults: Error: [Callstack] 0x00007ff7176fd37a UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.21.18:940][141]PackagingResults: Error: [Callstack] 0x00007ff717700854 UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.21.18:940][141]PackagingResults: Error: [Callstack] 0x00007ff717716984 UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.21.18:940][141]PackagingResults: Error: [Callstack] 0x00007ff717718eb6 UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.21.18:940][141]PackagingResults: Error: [Callstack] 0x00007fff38f77374 KERNEL32.DLL!UnknownFunction []
+[2024.10.26-18.21.18:940][141]PackagingResults: Error: end: stack for UAT
+[2024.10.26-18.21.22:161][151]UATHelper: Packaging (Windows): Took 27.09s to run UnrealEditor-Cmd.exe, ExitCode=3
+[2024.10.26-18.21.22:260][151]UATHelper: Packaging (Windows): Cook failed.
+[2024.10.26-18.21.22:260][151]UATHelper: Packaging (Windows): (see C:\Users\Isaac Curtis\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+UE_5.3\Log.txt for full exception trace)
+[2024.10.26-18.21.22:271][151]UATHelper: Packaging (Windows): AutomationTool executed for 0h 0m 32s
+[2024.10.26-18.21.22:271][151]UATHelper: Packaging (Windows): AutomationTool exiting with ExitCode=25 (Error_UnknownCookFailure)
+[2024.10.26-18.21.22:305][152]UATHelper: Packaging (Windows): BUILD FAILED
+[2024.10.26-18.21.22:616][152]PackagingResults: Error: Unknown Cook Failure
+[2024.10.26-18.21.47:084][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.10.26-18.22.03:349][115]LogTurnkeySupport: Project does not require temp target
+[2024.10.26-18.22.03:352][115]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UnrealGame.target
+[2024.10.26-18.22.03:375][115]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/UE_5.3/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/HW1_Project.uproject" Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=57028  -project="C:/Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/HW1_Project.uproject" BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook  -project="C:/Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/HW1_Project.uproject"  -unrealexe="C:\UE_5.3\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -installed -stage -archive -package -pak -iostore -compressed -prereqs -archivedirectory="C:/Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/Builds" -clientconfig=Development" -nocompile -nocompileuat ]
+[2024.10.26-18.22.03:425][116]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4786.558105
+[2024.10.26-18.22.03:451][119]UATHelper: Packaging (Windows): Running AutomationTool...
+[2024.10.26-18.22.03:548][131]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.10.26-18.22.03:548][131]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4786.672363, Update Interval: 326.122620
+[2024.10.26-18.22.03:561][132]UATHelper: Packaging (Windows): Using bundled DotNet SDK version: 6.0.302
+[2024.10.26-18.22.03:693][148]UATHelper: Packaging (Windows): Starting AutomationTool...
+[2024.10.26-18.22.03:715][151]UATHelper: Packaging (Windows): Parsing command line: -ScriptsForProject="C:/Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/HW1_Project.uproject" Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=57028 -project="C:/Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/HW1_Project.uproject" BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook -project="C:/Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/HW1_Project.uproject" -unrealexe=C:\UE_5.3\Engine\Binaries\Win64\UnrealEditor-Cmd.exe -platform=Win64 -installed -stage -archive -package -pak -iostore -compressed -prereqs -archivedirectory="C:/Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/Builds" -clientconfig=Development -nocompile -nocompileuat
+[2024.10.26-18.22.03:834][165]UATHelper: Packaging (Windows): Initializing script modules...
+[2024.10.26-18.22.04:110][194]UATHelper: Packaging (Windows): Total script module initialization time: 0.27 s.
+[2024.10.26-18.22.04:582][244]UATHelper: Packaging (Windows): Executing commands...
+[2024.10.26-18.22.04:637][251]UATHelper: Packaging (Windows): Installed Sdk validity:
+[2024.10.26-18.22.04:637][251]UATHelper: Packaging (Windows): Win64: (Status=Valid, MinAllowed_Sdk=10.0.00000.0, MaxAllowed_Sdk=10.9.99999.0, Current_Sdk=10.0.16299.0, Allowed_AutoSdk=10.0.18362.0, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists")
+[2024.10.26-18.22.04:637][251]UATHelper: Packaging (Windows): Scanning for envvar changes...
+[2024.10.26-18.22.04:637][251]UATHelper: Packaging (Windows): ... done! 
+[2024.10.26-18.22.04:637][251]UATHelper: Packaging (Windows): Cleaning Temp Paths...
+[2024.10.26-18.22.04:637][251]UATHelper: Packaging (Windows): BUILD SUCCESSFUL
+[2024.10.26-18.22.04:648][252]UATHelper: Packaging (Windows): Setting up ProjectParams for C:\Users\Isaac Curtis\Documents\Unreal Projects\FA24-CurtisI-NelsonR\HW1_Project.uproject
+[2024.10.26-18.22.05:012][296]UATHelper: Packaging (Windows): ********** COOK COMMAND STARTED **********
+[2024.10.26-18.22.05:023][297]UATHelper: Packaging (Windows): Running UnrealEditor Cook for project C:\Users\Isaac Curtis\Documents\Unreal Projects\FA24-CurtisI-NelsonR\HW1_Project.uproject
+[2024.10.26-18.22.05:023][297]UATHelper: Packaging (Windows): Commandlet log file is C:\UE_5.3\Engine\Programs\AutomationTool\Saved\Cook-2024.10.26-12.22.05.txt
+[2024.10.26-18.22.05:056][301]UATHelper: Packaging (Windows): Running: C:\UE_5.3\Engine\Binaries\Win64\UnrealEditor-Cmd.exe "C:\Users\Isaac Curtis\Documents\Unreal Projects\FA24-CurtisI-NelsonR\HW1_Project.uproject" -run=Cook  -TargetPlatform=Windows  -unversioned -fileopenlog -abslog="C:\UE_5.3\Engine\Programs\AutomationTool\Saved\Cook-2024.10.26-12.22.05.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2024.10.26-18.22.05:772][371]UATHelper: Packaging (Windows): LogInit: Display: Running engine for game: HW1_Project
+[2024.10.26-18.22.05:772][371]UATHelper: Packaging (Windows): LogCore: Display: Requested channels: 'cpu,gpu,frame,log,bookmark,screenshot,region'
+[2024.10.26-18.22.05:772][371]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : platform="Windows"
+[2024.10.26-18.22.05:772][371]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : config="Development"
+[2024.10.26-18.22.05:772][371]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.3-CL-29314046"
+[2024.10.26-18.22.05:772][371]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : engineversion="5.3.2-29314046+++UE5+Release-5.3"
+[2024.10.26-18.22.05:772][371]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.5011] "
+[2024.10.26-18.22.05:772][371]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 2600X Six-Core Processor"
+[2024.10.26-18.22.05:772][371]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+[2024.10.26-18.22.05:772][371]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
+[2024.10.26-18.22.05:772][371]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : ltoenabled="0"
+[2024.10.26-18.22.05:772][371]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : asan="0"
+[2024.10.26-18.22.05:772][371]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\Isaac Curtis\Documents\Unreal Projects\FA24-CurtisI-NelsonR\HW1_Project.uproject" -run=Cook -TargetPlatform=Windows -unversioned -fileopenlog -abslog=C:\UE_5.3\Engine\Programs\AutomationTool\Saved\Cook-2024.10.26-12.22.05.txt -stdout -CrashForUAT -unattended -NoLogTimes -UTF8Output""
+[2024.10.26-18.22.05:772][371]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : loginid="a781b91348d6ebefa9a07393fe0220a4"
+[2024.10.26-18.22.06:135][410]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : llm="0"
+[2024.10.26-18.22.06:135][410]UATHelper: Packaging (Windows): LogConfig: Display: Loading VulkanPC ini files took 0.07 seconds
+[2024.10.26-18.22.06:135][410]UATHelper: Packaging (Windows): LogConfig: Display: Loading Android ini files took 0.07 seconds
+[2024.10.26-18.22.06:135][410]UATHelper: Packaging (Windows): LogConfig: Display: Loading Mac ini files took 0.07 seconds
+[2024.10.26-18.22.06:135][410]UATHelper: Packaging (Windows): LogConfig: Display: Loading IOS ini files took 0.07 seconds
+[2024.10.26-18.22.06:135][410]UATHelper: Packaging (Windows): LogAssetRegistry: Display: Asset registry cache read as 17.5 MiB from ../../../../Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/Intermediate/CachedAssetRegistry_0.bin
+[2024.10.26-18.22.06:135][410]UATHelper: Packaging (Windows): LogConfig: Display: Loading Unix ini files took 0.09 seconds
+[2024.10.26-18.22.06:135][410]UATHelper: Packaging (Windows): LogConfig: Display: Loading TVOS ini files took 0.10 seconds
+[2024.10.26-18.22.06:135][410]UATHelper: Packaging (Windows): LogConfig: Display: Loading LinuxArm64 ini files took 0.11 seconds
+[2024.10.26-18.22.06:135][410]UATHelper: Packaging (Windows): LogConfig: Display: Loading Linux ini files took 0.11 seconds
+[2024.10.26-18.22.06:333][429]UATHelper: Packaging (Windows): LogConfig: Display: Loading Windows ini files took 0.07 seconds
+[2024.10.26-18.22.06:333][429]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+[2024.10.26-18.22.06:333][429]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Fab/Content/' mounted to '/Fab/'
+[2024.10.26-18.22.06:333][429]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/TraceUtilities/Content/' mounted to '/TraceUtilities/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/GLTFExporter/Content/' mounted to '/GLTFExporter/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Interchange/Runtime/Content/' mounted to '/Interchange/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ACLPlugin/Content/' mounted to '/ACLPlugin/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaPlate/Content/' mounted to '/MediaPlate/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Dataflow/Content/' mounted to '/Dataflow/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ToolPresets/Content/' mounted to '/ToolPresets/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioWidgets/Content/' mounted to '/AudioWidgets/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Metasound/Content/' mounted to '/Metasound/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/RigVM/Content/' mounted to '/RigVM/'
+[2024.10.26-18.22.06:344][430]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+[2024.10.26-18.22.06:355][431]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+[2024.10.26-18.22.06:355][431]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/WaveTable/Content/' mounted to '/WaveTable/'
+[2024.10.26-18.22.06:355][431]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
+[2024.10.26-18.22.06:355][431]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+[2024.10.26-18.22.06:355][431]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+[2024.10.26-18.22.06:355][431]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+[2024.10.26-18.22.06:355][431]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+[2024.10.26-18.22.06:355][431]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+[2024.10.26-18.22.06:355][431]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/UVEditor/Content/' mounted to '/UVEditor/'
+[2024.10.26-18.22.06:355][431]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+[2024.10.26-18.22.06:355][431]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
+[2024.10.26-18.22.06:465][442]UATHelper: Packaging (Windows): LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
+[2024.10.26-18.22.06:763][476]UATHelper: Packaging (Windows): RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+[2024.10.26-18.22.06:763][476]UATHelper: Packaging (Windows): LogHAL: Display: Platform has ~ 16 GB [17128574976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.10.26-18.22.06:807][481]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2024.10.26-18.22.06:807][481]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatASTC
+[2024.10.26-18.22.06:807][481]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatDXT
+[2024.10.26-18.22.06:807][481]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatETC2
+[2024.10.26-18.22.06:807][481]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatIntelISPCTexComp
+[2024.10.26-18.22.06:807][481]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatUncompressed
+[2024.10.26-18.22.06:807][481]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.10
+[2024.10.26-18.22.06:807][481]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2024.10.26-18.22.06:807][481]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.6.dll
+[2024.10.26-18.22.06:807][481]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.7.dll
+[2024.10.26-18.22.06:807][481]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+[2024.10.26-18.22.06:807][481]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.9.dll
+[2024.10.26-18.22.06:818][483]UATHelper: Packaging (Windows): LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.10.dll
+[2024.10.26-18.22.06:829][484]UATHelper: Packaging (Windows): LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatOodle
+[2024.10.26-18.22.06:829][484]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.10.26-18.22.06:829][484]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.10.26-18.22.06:829][484]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.10.26-18.22.06:829][484]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.10.26-18.22.06:840][485]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.10.26-18.22.06:840][485]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.10.26-18.22.06:840][485]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.10.26-18.22.06:840][485]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.10.26-18.22.06:840][485]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.10.26-18.22.06:840][485]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.10.26-18.22.06:840][485]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.10.26-18.22.06:840][485]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.10.26-18.22.06:840][485]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.10.26-18.22.06:840][485]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2024.10.26-18.22.06:840][485]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.10.26-18.22.06:851][487]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.10.26-18.22.06:851][487]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2024.10.26-18.22.06:851][487]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2024.10.26-18.22.06:851][487]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2024.10.26-18.22.06:851][487]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.10.26-18.22.06:851][487]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacEditor'
+[2024.10.26-18.22.06:851][487]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.10.26-18.22.06:862][488]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.10.26-18.22.06:862][488]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.10.26-18.22.06:862][488]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.10.26-18.22.06:862][488]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.10.26-18.22.06:862][488]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2024.10.26-18.22.06:862][488]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.10.26-18.22.06:862][488]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.10.26-18.22.06:873][489]UATHelper: Packaging (Windows): LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.10.26-18.22.07:599][572]UATHelper: Packaging (Windows): LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.10.26-18.22.07:654][579]UATHelper: Packaging (Windows): LogDerivedDataCache: Display: Memory: Max Cache Size: -1 MB
+[2024.10.26-18.22.07:665][580]UATHelper: Packaging (Windows): LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (2383 MiB)
+[2024.10.26-18.22.07:676][581]UATHelper: Packaging (Windows): LogDerivedDataCache: Display: C:/Users/Isaac Curtis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Performance: Latency=0.07ms. RandomReadSpeed=690.09MBs, RandomWriteSpeed=64.33MBs. Assigned SpeedClass 'Local'
+[2024.10.26-18.22.09:427][774]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2024.10.26-18.22.09:427][774]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2024.10.26-18.22.09:438][775]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.10.26-18.22.09:460][777]UATHelper: Packaging (Windows): LogAssetRegistry: Display: AssetDataGatherer spent 0.000s loading caches ../../../../Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/Intermediate/CachedAssetRegistry_*.bin.
+[2024.10.26-18.22.09:757][807]UATHelper: Packaging (Windows): LogEditorDomain: Display: EditorDomain is Disabled
+[2024.10.26-18.22.09:757][807]UATHelper: Packaging (Windows): LogDeviceProfileManager: Display: Deviceprofile LinuxArm64Editor not found.
+[2024.10.26-18.22.10:021][838]UATHelper: Packaging (Windows): LogDeviceProfileManager: Display: Deviceprofile LinuxArm64 not found.
+[2024.10.26-18.22.10:021][838]UATHelper: Packaging (Windows): LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2024.10.26-18.22.10:021][838]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Users/Isaac Curtis/Documents/Unreal Projects/FA24-CurtisI-NelsonR/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+[2024.10.26-18.22.10:055][838]UATHelper: Packaging (Windows): LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.10.26-18.22.10:055][838]UATHelper: Packaging (Windows): LogTextureEncodingSettings: Display: Texture Encode Speed: Final (cook).
+[2024.10.26-18.22.10:055][838]UATHelper: Packaging (Windows): LogTextureEncodingSettings: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2024.10.26-18.22.10:121][846]UATHelper: Packaging (Windows): LogTextureEncodingSettings: Display: Shared linear texture encoding: Disabled
+[2024.10.26-18.22.10:121][846]UATHelper: Packaging (Windows): LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.10.26-18.22.10:121][846]UATHelper: Packaging (Windows): LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2024.10.26-18.22.10:121][846]UATHelper: Packaging (Windows): LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.10.26-18.22.10:374][872]UATHelper: Packaging (Windows): LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2024.10.26-18.22.10:374][872]UATHelper: Packaging (Windows): LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2024.10.26-18.22.10:581][892]UATHelper: Packaging (Windows): LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2024.10.26-18.22.10:581][892]UATHelper: Packaging (Windows): LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2024.10.26-18.22.12:430][ 96]UATHelper: Packaging (Windows): LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 2 ms
+[2024.10.26-18.22.13:344][199]UATHelper: Packaging (Windows): LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.10.26-18.22.13:344][199]UATHelper: Packaging (Windows): LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.10.26-18.22.13:751][246]UATHelper: Packaging (Windows): LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.10.26-18.22.13:751][246]UATHelper: Packaging (Windows): LogOutputDevice: Warning:
+[2024.10.26-18.22.13:751][246]UATHelper: Packaging (Windows): Script Stack (0 frames) :
+[2024.10.26-18.22.15:270][421]UATHelper: Packaging (Windows): LogWindows: Error: appError called: Assertion failed: CurrentApplication.IsValid() [File:D:\build\++UE5\Sync\LocalInstall\Engine\Source\Runtime\Slate\Public\Framework\Application\SlateApplication.h] [Line: 255]
+[2024.10.26-18.22.15:272][422]PackagingResults: Error: appError called: Assertion failed: CurrentApplication.IsValid() [File:D:\build\++UE5\Sync\LocalInstall\Engine\Source\Runtime\Slate\Public\Framework\Application\SlateApplication.h] [Line: 255]
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error: begin: stack for UAT
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error: === Critical error: ===
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error:
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error: Assertion failed: CurrentApplication.IsValid() [File:D:\build\++UE5\Sync\LocalInstall\Engine\Source\Runtime\Slate\Public\Framework\Application\SlateApplication.h] [Line: 255]
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error:
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error:
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error:
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ffe5830ad96 UnrealEditor-Fab.dll!FFabBrowser::RegisterSlateStyle() [D:\build\++UE5\Sync\LocalBuilds\Fab\0.0.1\HostProject\Plugins\Fab\Source\Fab\Private\FabBrowser.cpp:98]
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ffe5831725a UnrealEditor-Fab.dll!FFabModule::StartupModule() [D:\build\++UE5\Sync\LocalBuilds\Fab\0.0.1\HostProject\Plugins\Fab\Source\Fab\Private\FabModule.cpp:35]
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ffea6095954 UnrealEditor-Core.dll!UnknownFunction []
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ffea51487ee UnrealEditor-Projects.dll!UnknownFunction []
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ffea51656c3 UnrealEditor-Projects.dll!UnknownFunction []
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ffea514801a UnrealEditor-Projects.dll!UnknownFunction []
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ff717702591 UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ff71770634f UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ff7176fcfb6 UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ff7176fd37a UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ff717700854 UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ff717716984 UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007ff717718eb6 UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error: [Callstack] 0x00007fff38f77374 KERNEL32.DLL!UnknownFunction []
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error:
+[2024.10.26-18.22.15:281][422]UATHelper: Packaging (Windows): LogWindows: Error: end: stack for UAT
+[2024.10.26-18.22.15:286][423]PackagingResults: Error: begin: stack for UAT
+[2024.10.26-18.22.15:286][423]PackagingResults: Error: === Critical error: ===
+[2024.10.26-18.22.15:286][423]PackagingResults: Error: Assertion failed: CurrentApplication.IsValid() [File:D:\build\++UE5\Sync\LocalInstall\Engine\Source\Runtime\Slate\Public\Framework\Application\SlateApplication.h] [Line: 255]
+[2024.10.26-18.22.15:286][423]PackagingResults: Error: [Callstack] 0x00007ffe5830ad96 UnrealEditor-Fab.dll!FFabBrowser::RegisterSlateStyle() [D:\build\++UE5\Sync\LocalBuilds\Fab\0.0.1\HostProject\Plugins\Fab\Source\Fab\Private\FabBrowser.cpp:98]
+[2024.10.26-18.22.15:286][423]PackagingResults: Error: [Callstack] 0x00007ffe5831725a UnrealEditor-Fab.dll!FFabModule::StartupModule() [D:\build\++UE5\Sync\LocalBuilds\Fab\0.0.1\HostProject\Plugins\Fab\Source\Fab\Private\FabModule.cpp:35]
+[2024.10.26-18.22.15:286][423]PackagingResults: Error: [Callstack] 0x00007ffea6095954 UnrealEditor-Core.dll!UnknownFunction []
+[2024.10.26-18.22.15:286][423]PackagingResults: Error: [Callstack] 0x00007ffea51487ee UnrealEditor-Projects.dll!UnknownFunction []
+[2024.10.26-18.22.15:286][423]PackagingResults: Error: [Callstack] 0x00007ffea51656c3 UnrealEditor-Projects.dll!UnknownFunction []
+[2024.10.26-18.22.15:286][423]PackagingResults: Error: [Callstack] 0x00007ffea514801a UnrealEditor-Projects.dll!UnknownFunction []
+[2024.10.26-18.22.15:286][423]PackagingResults: Error: [Callstack] 0x00007ff717702591 UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.22.15:286][423]PackagingResults: Error: [Callstack] 0x00007ff71770634f UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.22.15:286][423]PackagingResults: Error: [Callstack] 0x00007ff7176fcfb6 UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.22.15:286][423]PackagingResults: Error: [Callstack] 0x00007ff7176fd37a UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.22.15:286][423]PackagingResults: Error: [Callstack] 0x00007ff717700854 UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.22.15:286][423]PackagingResults: Error: [Callstack] 0x00007ff717716984 UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.22.15:286][423]PackagingResults: Error: [Callstack] 0x00007ff717718eb6 UnrealEditor-Cmd.exe!UnknownFunction []
+[2024.10.26-18.22.15:286][423]PackagingResults: Error: [Callstack] 0x00007fff38f77374 KERNEL32.DLL!UnknownFunction []
+[2024.10.26-18.22.15:286][423]PackagingResults: Error: end: stack for UAT
+[2024.10.26-18.22.18:606][816]UATHelper: Packaging (Windows): Took 13.58s to run UnrealEditor-Cmd.exe, ExitCode=3
+[2024.10.26-18.22.18:639][820]UATHelper: Packaging (Windows): Cook failed.
+[2024.10.26-18.22.18:639][820]UATHelper: Packaging (Windows): (see C:\Users\Isaac Curtis\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+UE_5.3\Log.txt for full exception trace)
+[2024.10.26-18.22.18:639][820]UATHelper: Packaging (Windows): AutomationTool executed for 0h 0m 14s
+[2024.10.26-18.22.18:639][820]UATHelper: Packaging (Windows): AutomationTool exiting with ExitCode=25 (Error_UnknownCookFailure)
+[2024.10.26-18.22.18:672][824]UATHelper: Packaging (Windows): BUILD FAILED
+[2024.10.26-18.22.18:672][824]PackagingResults: Error: Unknown Cook Failure
+[2024.10.26-18.26.29:612][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
