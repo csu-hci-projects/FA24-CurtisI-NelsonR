@@ -2,7 +2,7 @@
 
 Game Showcase: youtube link
 
-Blueprint Showcase: (https://youtu.be/LvEiL_E8HLA)
+Blueprint Showcase: https://youtu.be/LvEiL_E8HLA
 
 ## Members and Who Did What
 
