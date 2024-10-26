@@ -4,6 +4,17 @@ Game Showcase: youtube link
 
 Blueprint Showcase: https://youtu.be/LvEiL_E8HLA
 
+## How to Run the Program
+
+We were unable to upload a build of our project to github due to file limits (our buidl was over 1gb large). Therefore, the only way to currently run this is to run it through the Unreal Editor.
+
+1. Download Epic Game Store
+2. Download Unreal Engine version 5.3.2
+3. Download or clone this repository
+4. Run HW1_Project.uproject
+
+This will open the game in the editor. From here, there is two ways to run the game. Either go to content/MainMenu and click play to play the game within the editor. You are also able to create a build locally on your machine through the 'Platform' button on the top. From there you can choose what system you want the program to run on, run the build, and then run the downloaded executable file.
+
 ## Members and Who Did What
 
 ### Riley Nelson
