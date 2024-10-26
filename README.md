@@ -51,8 +51,8 @@ Blueprint Showcase
 * collision event - https://www.youtube.com/watch?v=H2I7I8blgn8&ab_channel=GorkaGames
 
 ## Team Meetings
-9/27 : Met during CS310H Lab
-10/4 : Met during CS310H Lab
-10/9 : Met at the library
-10/11 : Met during CS310H Lab
-10/18 : Met during CS310H Lab
+* 9/27 : Met during CS310H Lab
+* 10/4 : Met during CS310H Lab
+* 10/9 : Met at the library
+* 10/11 : Met during CS310H Lab
+* 10/18 : Met during CS310H Lab
