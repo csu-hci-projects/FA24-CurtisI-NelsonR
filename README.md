@@ -49,3 +49,10 @@ Blueprint Showcase
 * soul cave asset pack from Epic Games: https://www.fab.com/listings/75f42402-40bb-4a1b-b557-18e2c9604273
 * Large File Storage for Git: https://medium.com/projectwt/setting-up-git-large-file-storage-for-unreal-engine-projects-1854d6337177
 * collision event - https://www.youtube.com/watch?v=H2I7I8blgn8&ab_channel=GorkaGames
+
+## Team Meetings
+9/27 : Met during CS310H Lab
+10/4 : Met during CS310H Lab
+10/9 : Met at the library
+10/11 : Met during CS310H Lab
+10/18 : Met during CS310H Lab
