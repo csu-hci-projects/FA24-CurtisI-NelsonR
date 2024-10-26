@@ -6,7 +6,7 @@ Blueprint Showcase: youtube link
 
 ## Members and Who Did What
 
-### Riley
+### Riley Nelson
 Second Level
 
 Menu
@@ -17,7 +17,7 @@ Hazards
 
 Game Showcase
 
-### Isaac
+### Isaac Curtis
 Create the Project file
 
 First Level
