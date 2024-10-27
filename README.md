@@ -1,6 +1,6 @@
 # CS/IDEA 310H Homework Assignment 1.
 
-Game Showcase: youtube link
+Game Showcase: https://youtu.be/3tLoHwWN_Pw
 
 Blueprint Showcase: https://youtu.be/LvEiL_E8HLA
 
