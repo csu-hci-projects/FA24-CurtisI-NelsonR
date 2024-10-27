@@ -56,3 +56,4 @@ Blueprint Showcase
 * 10/9 : Met at the library
 * 10/11 : Met during CS310H Lab
 * 10/18 : Met during CS310H Lab
+* 10/21 : Met during CS310H Lecture Time
