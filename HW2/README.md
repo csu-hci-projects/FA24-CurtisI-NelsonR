@@ -69,3 +69,11 @@ If you are in a group of 4 you must complete at least two of the following. If y
         Create a grabbable static mesh blueprint that acts as a “key”
         Create a pedestal blueprint to act as the lock
         When the “key” blueprint touches the pedestal remove the no-teleport or static meshes to allow access to the inaccessible room
+
+
+
+
+
+## Team Meetings
+* 11/20 : Met at the Library
+* 12/2 : Met during CS310H Class
