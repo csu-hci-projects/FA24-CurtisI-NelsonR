@@ -62,4 +62,4 @@ Gameplay Showcase
 * 12/3 : Met during CS310H Lecture Time
 * 12/5 : Met during CS310H Lecture Time
 * also communicated frequently over teams. 
-When the “key” blueprint touches the pedestal remove the no-teleport or static meshes to allow access to the inaccessible room
+
