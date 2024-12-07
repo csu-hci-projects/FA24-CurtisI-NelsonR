@@ -2,7 +2,7 @@
 
 Game Showcase: https://www.youtube.com/watch?v=CIH25pj5XLA
 
-Blueprint Showcase: 
+Blueprint Showcase: https://youtu.be/1RgoWMSFsn4
 
 ## How to Run the Program
 
